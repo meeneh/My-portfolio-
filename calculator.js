@@ -13,5 +13,5 @@ try{
 display.value = eval(display.value);
 }
 catch(error){
-display.value="ha try again";}
+display.value="try again";}
 }
